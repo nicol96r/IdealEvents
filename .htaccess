@@ -1,0 +1,9 @@
+# .htaccess en la raíz del proyecto
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Permitir acceso a los controladores
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php [QSA,L]
+</IfModule>

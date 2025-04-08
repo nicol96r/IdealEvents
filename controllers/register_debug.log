@@ -1,0 +1,102 @@
+2025-04-04 05:16:45 - POST data: Array
+(
+    [tipo_documento] => Cédula
+    [documento] => 412433124
+    [nombre] => Prueba Nombre
+    [apellido] => Di Maria
+    [fecha_nacimiento] => 2000-10-17
+    [genero] => Masculino
+    [email] => ejemplo@ejemplo.com
+    [password] => milo123
+)
+
+2025-04-04 05:16:45 - Respuesta modelo: Array
+(
+    [codigo] => 200
+    [mensaje] => Registro exitoso. Ahora puedes iniciar sesión.
+)
+
+2025-04-04 05:27:07 - POST data: Array
+(
+    [tipo_documento] => Tarjeta de Identidad
+    [documento] => 42143421
+    [nombre] => Favio Noe
+    [apellido] => Carin Leon
+    [fecha_nacimiento] => 2002-06-11
+    [genero] => Masculino
+    [email] => carin@gmail.com
+    [password] => milo123
+)
+
+2025-04-04 05:27:07 - Respuesta modelo: Array
+(
+    [codigo] => 200
+    [mensaje] => Registro exitoso. Ahora puedes iniciar sesión.
+)
+
+2025-04-04 15:27:54 - POST data: Array
+(
+    [tipo_documento] => Cédula
+    [documento] => 1222
+    [nombre] => wert
+    [apellido] => asdfg
+    [fecha_nacimiento] => 2010-06-08
+    [genero] => Masculino
+    [email] => micorreo@gmail.com
+    [password] => nicola
+)
+
+2025-04-04 15:27:54 - Respuesta modelo: Array
+(
+    [codigo] => 200
+    [mensaje] => Registro exitoso. Ahora puedes iniciar sesión.
+)
+
+2025-04-04 17:24:37 - POST data: Array
+(
+    [tipo_documento] => Cédula
+    [documento] => 13324
+    [nombre] => sdaaad
+    [apellido] => ddsaS
+    [fecha_nacimiento] => 2025-03-31
+    [genero] => Femenino
+    [email] => FSAK@G
+    [password] => 123456
+)
+
+2025-04-06 01:15:36 - POST data: Array
+(
+    [tipo_documento] => Cédula
+    [documento] => 1057979246
+    [nombre] => Nicol
+    [apellido] => wert
+    [fecha_nacimiento] => 2025-04-16
+    [genero] => Femenino
+    [email] => nicol@gmail.com
+    [password] => 123456
+)
+
+2025-04-06 01:15:36 - Respuesta modelo: Array
+(
+    [codigo] => 200
+    [mensaje] => Registro exitoso. Ahora puedes iniciar sesión.
+)
+
+2025-04-07 08:01:18 - POST data: Array
+(
+    [tipo_documento] => Tarjeta de Identidad
+    [documento] => 19303
+    [nombre] => sis
+    [apellido] => wert
+    [fecha_nacimiento] => 2025-04-09
+    [genero] => Masculino
+    [email] => sis@gmail.com
+    [password] => 123456
+)
+
+2025-04-07 08:01:21 - Respuesta modelo: Array
+(
+    [codigo] => 200
+    [mensaje] => Registro exitoso. Ahora puedes iniciar sesión.
+)
+
